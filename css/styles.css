@@ -31,6 +31,7 @@ li a {
   box-sizing: border-box;
 }
 
+/* ヘッダー */
 .page-header {
   display: flex;
   justify-content: space-between;
@@ -48,3 +49,20 @@ li a {
   width: 120px;
   height: 40px;
 }
+
+/* メイン */
+.mainvisual {
+  margin-bottom: 85px;
+}
+
+.mainvisual img {
+  height: 600px;
+  width: 100%;
+  object-fit: cover;
+  max-width: 1920px;
+}
+
+
+
+
+
