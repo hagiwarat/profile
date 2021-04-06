@@ -29,6 +29,15 @@ li a {
   padding: 0 4%;
   margin: 0 auto;
   box-sizing: border-box;
+  text-align: center;
+}
+
+.content h2 {
+  font-size: 2rem;
+  color: #383e45;
+  border-bottom: 1px solid #333;
+  display: inline-block;
+  margin-top: 0;
 }
 
 /* ヘッダー */
@@ -52,7 +61,7 @@ li a {
 
 /* メイン */
 .mainvisual {
-  margin-bottom: 85px;
+  margin-bottom: 80px;
 }
 
 .mainvisual img {
