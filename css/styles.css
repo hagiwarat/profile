@@ -71,6 +71,43 @@ li a {
   max-width: 1920px;
 }
 
+/* About */
+#about {
+  margin-bottom: 60px;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about__Img img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-right: 30px;
+}
+
+.about-content {
+  width: 405px;
+}
+
+.about-content h3 {
+  font-size: 1rem;
+  text-align: left;
+  margin: 10px 0;
+  color: #383e45;
+}
+
+.about-content p {
+  font-size: 0.9rem;
+  text-align: left;
+  margin: 0;
+  color: #383e45;
+}
+
+
 
 
 
