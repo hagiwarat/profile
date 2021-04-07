@@ -151,3 +151,38 @@ li a {
   text-align: center;
   margin: 10px 0;
 }
+
+/* レスポンシブ */
+@media screen and (max-width: 600px) {
+  /* メインビジュアル */
+.mainvisual img {
+  height: calc(100vh - 60px);
+}
+
+/* About */
+  #section .about {
+    display: block;
+  }
+
+  .about-content {
+    width: 100%;
+  }
+
+  /* Bicycle */
+  #section .bicycle {
+    display: block;
+  }
+
+  .bicycle-content {
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+}
+
+
+
+
+
+
+
