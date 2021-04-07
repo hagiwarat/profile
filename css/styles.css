@@ -34,6 +34,7 @@ li a {
 
 .content h2 {
   font-size: 2rem;
+  font-weight: bold;
   color: #383e45;
   border-bottom: 1px solid #333;
   display: inline-block;
@@ -100,6 +101,7 @@ li a {
 
 .about-content h3 {
   font-size: 1rem;
+  font-weight: bold;
   text-align: left;
   margin: 10px 0;
   color: #383e45;
@@ -107,6 +109,7 @@ li a {
 
 .about-content p {
   font-size: 0.9rem;
+  font-weight: normal;
   text-align: left;
   margin: 0;
   color: #383e45;
@@ -128,17 +131,23 @@ li a {
 
 .bicycle-content h3 {
   font-size: 1rem;
+  font-weight: bold;
   color: #383e45;
   margin: 10px 0;
 }
 
 .bicycle-content p {
   font-size: 0.9rem;
+  font-weight: normal;
   color: #383e45;
   margin: 10px 0;
 }
 
-
-
-
-
+/* フッター */
+.page-footer p {
+  font-size: 0.6rem;
+  font-weight: normal;
+  color: #383e45;
+  text-align: center;
+  margin: 10px 0;
+}
