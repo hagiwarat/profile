@@ -71,6 +71,10 @@ li a {
   max-width: 1920px;
 }
 
+#section {
+  margin-bottom: 100px;
+}
+
 /* About */
 #about {
   margin-bottom: 60px;
@@ -87,6 +91,7 @@ li a {
   width: 100px;
   height: 100px;
   margin-right: 30px;
+  vertical-align: middle;
 }
 
 .about-content {
