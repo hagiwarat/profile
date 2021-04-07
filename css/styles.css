@@ -112,6 +112,31 @@ li a {
   color: #383e45;
 }
 
+/* Bicycle */
+#bicycle {
+  margin-bottom: 60px;
+}
+
+.bicycle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bicycle-content {
+  width: 32%;
+}
+
+.bicycle-content h3 {
+  font-size: 1rem;
+  color: #383e45;
+  margin: 10px 0;
+}
+
+.bicycle-content p {
+  font-size: 0.9rem;
+  color: #383e45;
+  margin: 10px 0;
+}
 
 
 
